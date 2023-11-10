@@ -22,6 +22,6 @@
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en:
 
-- LinkedIn: [AlbertoREG](www.linkedin.com/in/albertoreg)
+- LinkedIn: [AlbertoREG](https://www.linkedin.com/in/albertoreg)
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por seguir aprendiendo y contribuyendo al mundo del desarrollo de software.
